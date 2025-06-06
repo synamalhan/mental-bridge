@@ -35,8 +35,8 @@ A Streamlit app to help simulate and improve sensitive conversations about menta
 
 1. **Clone the repo**
      ```bash
-     git clone https://github.com/yourusername/mental-health-bridge.git
-     cd mental-health-bridge
+     git clone https://github.com/synamalhan/mental-bridge.git
+     cd mental-bridge
      ```
 
 2. **Install dependencies**
@@ -79,5 +79,3 @@ Pull requests and suggestions are welcome! Let’s make mental health conversati
 MIT License
 
 ---
-
-Let me know if you want to include screenshots, a logo, or a short demo video link!
